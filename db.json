@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "213e69f8-e477-491b-b692-8557b4dde58a",
+      "user": "Ahmet",
+      "title": "JavaScript Nedir ?",
+      "text": "JavaScript dinamik bir uygulama "
+    },
+    {
+      "id": "ca675562-2199-4677-a5b2-6e4a0c9e128b",
+      "user": "Mehmet",
+      "title": "React Nedir ?",
+      "text": "React ......."
+    },
+    {
+      "id": "b346219d-441a-47de-963e-99266d6dd609",
+      "user": "Mehmet",
+      "title": "React MVC ?",
+      "text": "MVC nedir "
+    }
+  ]
+}
